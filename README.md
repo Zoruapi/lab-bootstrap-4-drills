@@ -54,7 +54,7 @@ Bootstrap 4 Drills
             3. Create a form inside of the existing container and your newly creater row.
             4. Have this form contain an input for an email and password. Make sure each
                input has labels!
-            5. Add 2 checkboces to the form, one for cats and one for dogs.
+            5. Add 2 checkboxes to the form, one for cats and one for dogs.
             6. Add 3 radios, have them say Cheese Pizza, Hawaiian Pizza, and Supreme Pizza.
             7. Make sure the form has a submit input!
             8. Your page should like somewhat close to this, with your text being different.
